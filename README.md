@@ -30,6 +30,7 @@ This project leverages Microsoft's [MarkItDown](https://github.com/microsoft/mar
    pip install markitdown
    # If you need PDF support:
    pip install markitdown[pdf]
+   pip install "markitdown[all]"
    ```
 
 ### Setup Instructions
